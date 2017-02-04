@@ -8,7 +8,8 @@ Number of features: 1558, in which 3 are continuous and others are binary.
 
 Feature Engineering:
 
-•	I removed the continuous variables and worked on the remaining 1555 variables.
+•	I removed the continuous variables and worked on the remaining 1555 variables
+
 •	0.5% of the values were missing, Hence, substituted the missing values with the binary digit 0
 Total number of instances: 3279 
 
